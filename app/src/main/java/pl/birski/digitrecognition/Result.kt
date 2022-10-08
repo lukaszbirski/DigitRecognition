@@ -1,6 +1,6 @@
 package pl.birski.digitrecognition
 
-class Result(probs: FloatArray, timeCost: Long) {
+data class Result(private val probs: FloatArray, private val timeCost: Long) {
 
     var mNumber = 0
     var mProbability = 0f

@@ -3,7 +3,7 @@
 
     <string name="button_clear_text">Clear</string>
     <string name="button_detect_text">Detect</string>
-    <string name="button_probability_text">Detect: </string>
-    <string name="button_time_text">Time cost: </string>
-    <string name="button_prediction_text">Prediction: </string>
+    <string name="button_probability_text">Probability: %s%%</string>
+    <string name="button_time_text">Time cost: %s ms</string>
+    <string name="button_prediction_text">Prediction: %s</string>
 </resources>
